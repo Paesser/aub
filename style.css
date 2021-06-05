@@ -1,0 +1,42 @@
+body{
+    background: #323232;
+    }
+
+.header{
+    
+    position: absolute;
+
+height: 110px;
+left: 323px;
+top: 61px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+
+color: #F3F3F3;
+
+    
+    
+}
+
+.article{
+    
+    position: absolute;
+width: 668px;
+height: 658px;
+left: 351px;
+top: 216px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+    
+}
